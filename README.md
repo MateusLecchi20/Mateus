@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFF00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+de+Deus+Reisen+Lecchi;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MateusLecchi20&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+de+Deus+Reisen+Lecchi;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MateusLecchi20&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
